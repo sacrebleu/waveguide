@@ -25,7 +25,7 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
 end
 
-gem 'httparty', '0.16.3'
+gem 'httparty', '0.21.0'
 
 group :development do
   gem 'listen', '>= 3.0.5', '< 3.2'
